@@ -1,3 +1,1 @@
-# Olivier Caron
-
-Hello World!
+# Hello World!
